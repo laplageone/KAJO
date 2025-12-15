@@ -55,7 +55,7 @@ const RocketMessage: React.FC<RocketMessageProps> = ({ isVisible, onReplay }) =>
           className="group flex items-center gap-2 px-6 py-3 bg-white/10 hover:bg-white/20 backdrop-blur-md border border-white/20 rounded-full text-white transition-all hover:scale-105 active:scale-95"
         >
           <RefreshCw size={18} className="group-hover:rotate-180 transition-transform duration-500" />
-          <span>طير الصاروخ تاني</span>
+          <span>اجمل بيتفورايا في الدنيا</span>
         </button>
       </div>
     </div>
